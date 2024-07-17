@@ -1,0 +1,15 @@
+.box {
+    border: 3px solid white;
+    padding: 5px;
+    text-align: center;
+    height: 100px;
+}
+
+.row{
+    padding-bottom: 2px;
+}
+
+.container{
+    padding: 10px;   
+    
+}
