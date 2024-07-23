@@ -1,0 +1,16 @@
+.box {
+    border: 7px solid white;
+    padding: 10px;
+    text-align: center;
+    height: 60px;
+    border-radius: 17px;
+}
+
+
+.row{
+    padding-bottom: 20px;
+}
+
+.container{
+    padding: 10px;      
+}
